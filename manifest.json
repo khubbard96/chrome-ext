@@ -1,0 +1,11 @@
+{
+    "name": "Getting started",
+    "version": "1.0",
+    "description": "First chrome extension",
+    "permissions": ["storage"],
+    "background": {},
+    "chrome_url_overrides": {
+        "newtab":"./src/html/index.html"
+    },
+    "manifest_version": 2
+}

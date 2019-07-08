@@ -1,0 +1,1 @@
+document.getElementById("text_box").textContent = "Hello World"
